@@ -1,0 +1,12 @@
+.mainstatus {
+    padding-top: 15px;
+    font-size: 140px;
+}
+
+.credits {
+    font-size: 12px;
+}
+
+.credits a {
+    color: white;
+}
