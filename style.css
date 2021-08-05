@@ -3,10 +3,16 @@
     font-size: 140px;
 }
 
+.substatus {
+    padding-top: 5px;
+    font-size: 40px;
+    font-weight: normal;
+}
+
 .credits {
     font-size: 12px;
 }
 
-.credits a {
+a {
     color: white;
 }
